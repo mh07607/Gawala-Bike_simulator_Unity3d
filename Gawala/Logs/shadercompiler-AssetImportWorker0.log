@@ -1,4 +1,4 @@
-Base path: 'D:/Software/Unity/2021.3.7f1/Editor/Data', plugins path 'D:/Software/Unity/2021.3.7f1/Editor/Data/PlaybackEngines'
+Base path: 'D:/Unity editor/2021.3.8f1/Editor/Data', plugins path 'D:/Unity editor/2021.3.8f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
 Cmd: compileSnippet
