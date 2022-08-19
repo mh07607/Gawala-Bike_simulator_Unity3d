@@ -374,3 +374,153 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 486.850349 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.012464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.272551 seconds.
+  path: Assets/external assets
+  artifactKey: Guid(8f917a135acff2f4c99df744d2b24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets using Guid(8f917a135acff2f4c99df744d2b24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb99f8f02091d7ca14f2e520cd71f02') in 0.005677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 138.668668 seconds.
+  path: Assets/external assets/57-moto1
+  artifactKey: Guid(95262896155335d428bfbec2685aeaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1 using Guid(95262896155335d428bfbec2685aeaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc21108187dc5b1b691611112bdeefc') in 0.023643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.816960 seconds.
+  path: Assets/external assets/57-moto1/moto1
+  artifactKey: Guid(b8e63ebd093a47641bd68370f8cb3ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1 using Guid(b8e63ebd093a47641bd68370f8cb3ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546b5c3113df95fa26d179de149bade8') in 0.005500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.094259 seconds.
+  path: Assets/external assets/57-moto1/moto1/gauge_rpm.png
+  artifactKey: Guid(0123e79d446477b4db66493fb5548599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/gauge_rpm.png using Guid(0123e79d446477b4db66493fb5548599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60167865d87ad81f1b3ff508d484239') in 0.111841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/external assets/57-moto1/moto1/motor.png
+  artifactKey: Guid(ad0d5425e09438341bc18f6daa76c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/motor.png using Guid(ad0d5425e09438341bc18f6daa76c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff053f806ad316294e9600c7316cc2e') in 0.057788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/external assets/57-moto1/moto1/Road07_col.jpg
+  artifactKey: Guid(acd23f01c9f4b2448ba81141f209ff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/Road07_col.jpg using Guid(acd23f01c9f4b2448ba81141f209ff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '453a4adb6dea82bf8ab82b23862045e8') in 0.074185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/external assets/57-moto1/moto1/gauge_rpm_UV.png
+  artifactKey: Guid(0d67073c9f3351847b7d60b748f1293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/gauge_rpm_UV.png using Guid(0d67073c9f3351847b7d60b748f1293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5686d3d18cc5c369344f1ea1dfc334e') in 0.020586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/external assets/57-moto1/moto1/Road07_nrm.jpg
+  artifactKey: Guid(9549daa1ac5438a418543aa64bc16df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/Road07_nrm.jpg using Guid(9549daa1ac5438a418543aa64bc16df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85c329ccd24f033978934015444e294') in 0.064467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/external assets/57-moto1/moto1/km.png
+  artifactKey: Guid(29474238f257639428b866d2d4e28594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/km.png using Guid(29474238f257639428b866d2d4e28594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9dce824b369433810a1e382014a583a') in 0.013683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005043 seconds.
+  path: Assets/external assets/57-moto1/moto1/rpm.png
+  artifactKey: Guid(c35956c6a8fd4be418aec524fe065d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/rpm.png using Guid(c35956c6a8fd4be418aec524fe065d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eedcd6d45d9498e31813ea51670bf6a') in 0.040437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/external assets/57-moto1/moto1/Road07_rgh.jpg
+  artifactKey: Guid(c5b41f89188defa44a66272db1bf32da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/Road07_rgh.jpg using Guid(c5b41f89188defa44a66272db1bf32da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16d4f2893c71dcf72b848bb8afa0a22') in 0.064201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/external assets/57-moto1/moto1/gauge_speed_UV.png
+  artifactKey: Guid(7af698fb899c5aa498540d20dcce02d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/gauge_speed_UV.png using Guid(7af698fb899c5aa498540d20dcce02d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ef1aef77343e4dcb50c99232156bdc') in 0.020224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/external assets/57-moto1/moto1/moto1.jpg
+  artifactKey: Guid(8fc1a30482654db47ac845162153ae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/moto1.jpg using Guid(8fc1a30482654db47ac845162153ae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f726023bae492ea951aa4d7f93559472') in 0.039310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/external assets/57-moto1/moto1/Road07_disp.jpg
+  artifactKey: Guid(01f78f146a2bdef4ba158e9b8a454e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/Road07_disp.jpg using Guid(01f78f146a2bdef4ba158e9b8a454e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd192a0def10836d25da1ffb7112b8833') in 0.057823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/external assets/57-moto1/moto1/moto2.jpg
+  artifactKey: Guid(9303f754181be9d4ca040ba30052d678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/moto2.jpg using Guid(9303f754181be9d4ca040ba30052d678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9df1de073d1f3ab042ed401ae62578') in 0.035937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/external assets/57-moto1/moto1/gauge_speed.png
+  artifactKey: Guid(e31c4828c4bbf1448ae7e805d91fb368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/gauge_speed.png using Guid(e31c4828c4bbf1448ae7e805d91fb368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a517fce39e7b079bf26910c61fb8dedf') in 0.020456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/external assets/57-moto1/moto1/moto3.jpg
+  artifactKey: Guid(f0e8c8eacd025184dadd45e19a26c18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/moto3.jpg using Guid(f0e8c8eacd025184dadd45e19a26c18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2b82a279e64092a1dfb3b40a0e6e43') in 0.035816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 137.025834 seconds.
+  path: Assets/external assets/57-moto1/moto1/motor 1.blend
+  artifactKey: Guid(71e7d7e01f5e09c418e668ad75fb1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/motor 1.blend using Guid(71e7d7e01f5e09c418e668ad75fb1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21c0060fc6882336110fe2ea14bae6e') in 0.971036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.877031 seconds.
+  path: Assets/external assets/57-moto1/moto1/motor 1.blend
+  artifactKey: Guid(71e7d7e01f5e09c418e668ad75fb1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/motor 1.blend using Guid(71e7d7e01f5e09c418e668ad75fb1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699e647585c3ef48cd1e6efb89ec65b0') in 0.690756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/external assets/57-moto1/moto1/Road07_nrm.jpg
+  artifactKey: Guid(9549daa1ac5438a418543aa64bc16df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/Road07_nrm.jpg using Guid(9549daa1ac5438a418543aa64bc16df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe538c930e8fd5bb774e09fec4ff9eb') in 0.120316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 204.484770 seconds.
+  path: Assets/external assets/57-moto1/moto1/motor.blend
+  artifactKey: Guid(329ab5cafd8127f408e87ea34f7f018f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/external assets/57-moto1/moto1/motor.blend using Guid(329ab5cafd8127f408e87ea34f7f018f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e23f8bbd2b786140f987ba0c05a64b1') in 0.003001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.465010 seconds.
+  path: Assets/materials/Grey.mat
+  artifactKey: Guid(1ff36bcbe6d6a3c438b93c4bde0a9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Grey.mat using Guid(1ff36bcbe6d6a3c438b93c4bde0a9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52ac85315a7d25f02eb4b29a11f1ca9') in 0.040514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 390.335883 seconds.
+  path: Assets/materials/Grey.mat
+  artifactKey: Guid(1ff36bcbe6d6a3c438b93c4bde0a9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Grey.mat using Guid(1ff36bcbe6d6a3c438b93c4bde0a9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e955012436215ad538f331b2be16ee') in 0.014812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4703.731262 seconds.
+  path: Assets/Scripts/player/PlayerMovement.cs
+  artifactKey: Guid(ce80d8200ba47fc459e3d62379d02f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/player/PlayerMovement.cs using Guid(ce80d8200ba47fc459e3d62379d02f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a975bb261aba6945da13920e03de18') in 0.142183 seconds 
