@@ -11,23 +11,49 @@ public class PlayerMovement : MonoBehaviour
     private float horizontal, vertical;
 
     [SerializeField] float bikespeed = 500;
+    [SerializeField] float brakespeed = 500;
+
     [SerializeField] WheelCollider frontwheelcoll, backwheelcoll;
     [SerializeField] Transform frontwheel, backwheel;
+    [SerializeField] float maxsteerAngle = 30;
     
-    public int speed = 500;
     // Start is called before the first frame update
     void Start()
     {
-        cc = gameObject.GetComponent<CharacterController>();
+            
     }
 
+    private void Update()
+    {
+        GetInput();
+    }
     // Update is called once per frame
     void FixedUpdate()
     {
         //Movement(cc);
-        backwheelcoll.motorTorque = bikespeed ;
-        //frontwheelcoll.motorTorque = bikespeed;
+
+
+        frontwheelcoll.steerAngle = horizontal * maxsteerAngle;
+
+        if (Input.GetKey("s"))
+        {
+            Debug.Log("brakes are applied");
+            ApplyBrake(brakespeed);
+        }
+        else
+        {
+            ApplyBrake(0);
+            backwheelcoll.motorTorque = bikespeed;
+        }
     }
+
+    void ApplyBrake(float brakespeed)
+    {
+        frontwheelcoll.brakeTorque = brakespeed;
+        backwheelcoll.brakeTorque = brakespeed;
+
+    }
+
 
     private void GetInput() //using this as subsitute for player controller
     {
@@ -37,12 +63,6 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    
-    private void Movement(CharacterController cc)
-    {
-        pc = cc.GetComponent<PlayerController>();
-        direction = new Vector3(0, 0, 1);
-        cc.SimpleMove(direction * speed * Time.deltaTime);
-    }
+ 
 
 }
