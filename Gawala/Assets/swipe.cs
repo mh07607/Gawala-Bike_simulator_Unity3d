@@ -10,7 +10,8 @@ public class swipe : MonoBehaviour
     [SerializeField] private Transform playerTransform;
     [SerializeField] private float playerSpeed;
     private Vector2 playerDirection = Vector2.zero;
-
+  
+    
 
     private void OnEnable()
     {
@@ -22,13 +23,18 @@ public class swipe : MonoBehaviour
         switch (swipe)
         {
             case "Left":
-                playerDirection = Vector2.left;
+                playerDirection = new Vector3 (-1f,0f,1f);
+                transform.rotation = Quaternion.AngleAxis(-30,
+                    Vector3.up);
                 break;
             case "Right":
-                playerDirection = Vector2.right;
+                playerDirection = new Vector3 (1f,0f,1f);
+                transform.rotation = Quaternion.AngleAxis(30,
+                     Vector3.up);
                 break;
 
         }
+        
     }
     private void Update()
     {
