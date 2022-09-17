@@ -11,6 +11,10 @@ public class PlayerLifeLIne : MonoBehaviour
         {
             Die();
         }
+        if (collision.gameObject.CompareTag("finish")) 
+        {
+            NextLevel();
+        }
     }
     void Die()
     {
@@ -20,5 +24,9 @@ public class PlayerLifeLIne : MonoBehaviour
     void ReloadLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    void NextLevel()
+    {
+
     }
 }
